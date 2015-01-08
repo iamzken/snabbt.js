@@ -1,6 +1,6 @@
 
 // Constants
-var CARD_HEIGHT = 100;
+var CARD_HEIGHT = 200;
 var CARD_WIDTH = 60;
 var CARD_COUNT = 40;
 
